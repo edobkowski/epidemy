@@ -33,6 +33,8 @@
 
 # Codeblocs trash
 *.cbp
+*.depend
+*.layout
 
 # log files
 *.log
